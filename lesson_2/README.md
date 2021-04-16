@@ -65,4 +65,4 @@
         “ед”: [“шт.”]
     }
 
-[task-05.py](task-05.py)
+[task-06.py](task-06.py)
